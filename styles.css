@@ -1,0 +1,43 @@
+h1{ /*Page Title Headers*/
+    text-align: center;
+    font-weight: bolder;
+    font-family: 'Courier New';
+    background-color: beige;
+}
+
+h2{ /* UW-Involvement App Design Header*/
+    font-family: 'Courier New';
+    font-weight: bolder;
+    
+}
+
+h3{ /*Project Purpose Header*/
+    font-size: x-large;
+}
+
+h4{ /* Project Purpose Header */
+    font-size: x-large;
+}
+
+ul{ /* First page styling for bulleted list*/
+    font-weight: bolder;
+    font-family: 'Courier New';
+    font-size: x-large;
+    background-color:beige ;
+}
+
+img{ /* Image styling*/
+    margin-bottom: 20px;
+    border: 10px solid beige; 
+    border-radius: 5px; 
+    padding: 5px;
+}
+
+.table-beige th { /*bootstrap*/
+    background-color: beige; 
+    color: black; 
+    text-align: center;
+    padding: 10px;
+}
+
+
